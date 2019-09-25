@@ -1,0 +1,10 @@
+div{
+    /*https://www.w3schools.com/css/css3_box-sizing.asp*/
+    box-sizing: border-box; /*https://www.w3schools.com/cssref/css3_pr_box-sizing.asp*/
+    width: 20rem;
+    height: 20rem;
+    padding: 5rem;
+    background-color:salmon;
+    border: 20px solid blue;
+    overflow: auto;/*hidden o auto (mete una barra de scroll)*/
+}
